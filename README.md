@@ -1,32 +1,26 @@
-# Indeed Open Source Repository Template
+# Indeed Open Developer Guide
 
-![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/default-template.svg)
+![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/oss-guide.svg)
 
-
-A default template repository we can use to bootstrap new open source projects. Replace this text with an overview of your project and what it does.
-
-Update the OSSLifeCycle shield above with the name of your repository (i.e. replace `default-template.svg` with `YOUR-REPOSITORY-NAME.svg`)
-
-Your README.md should contain the following sections:
 
 ## Getting Started
 
-How does a user get started using this project?
+This is a repository to hold the process and policy documentation that we use in Indeed's open source program office.
 
 ## Getting Help
 
-How does a user ask questions if they are stuck?
+If you have any questions about this content, please open an issue.
 
 ## How To Contribute
 
-What does a user need to know if they want to start contributing? If this information is extensive, capture it in a CONTRIBUTING.md file and link to that file here.
+Generally, this documentation is not open for contribution, as the purpose of this repository is to provide transparency around our open source processed and policies. However, if you see something in our processes or policies that you believe can be improved, you are invited to open an issue for discussion. Please do this prior to opening any pull requests.
 
 ## Project Maintainers
 
-Who are the project maintainers, and how can they be reached?
+The primary maintainer is @DuaneOBrien. You can reach the project maintainers at opensource@indeed.com
 
 ## Code of Conduct
-This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md). (Review the Code of Conduct and remove this sentence before publishing your project.)
+This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md).
 
 ## License
-This project uses the [Apache 2.0](LICENSE) license. (Update this and the LICENSE file if your project uses a different license.)
+This project uses the [CC-BY-4.0](LICENSE) license.
