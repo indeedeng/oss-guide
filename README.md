@@ -23,4 +23,4 @@ The primary maintainer is @DuaneOBrien. You can reach the project maintainers at
 This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md).
 
 ## License
-This project uses the [CC-BY-4.0](LICENSE) license.
+This project uses the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
